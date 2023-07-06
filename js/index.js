@@ -66,7 +66,6 @@ class ProductManager {
     
 }
 
-
 const NP = new ProductManager();
 NP.addProduct("jugo", "jugo de frutas", 100,"https://www.clarin.com/img/2018/11/19/1moJNpDSB_340x340__1.jpg", 50);
 NP.addProduct("trago", "trago delicioso", 200,"https://www.clarin.com/img/2022/01/17/negroni-un-trago-clasico-que___QwCr1ph7M_2000x1500__1.jpg", 40);
