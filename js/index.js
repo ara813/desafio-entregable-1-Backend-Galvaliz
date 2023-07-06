@@ -52,8 +52,6 @@ class ProductManager {
         return (cod + 1);
     }
 
-   
-
     getProductsById (idProducto){
         let pos = this.products.findIndex(producto => producto.code === idProducto);
         console.log(idProducto);
